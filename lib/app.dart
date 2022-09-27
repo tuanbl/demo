@@ -41,7 +41,7 @@ class App extends StatelessWidget {
         children: [
           SizedBox(height: 8),
           Text('Menu',
-              style: TextStyle(fontSize: 120, fontWeight: FontWeight.bold)),
+              style: TextStyle(fontSize: 150, fontWeight: FontWeight.bold)),
           SizedBox(
             height: MediaQuery.of(context).size.height - 160,
             width: double.infinity,
